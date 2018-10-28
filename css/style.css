@@ -102,7 +102,7 @@ header a:hover{
 
 #showcase h1{
   margin-top: 0;
-  font-size: 4vw;
+  font-size: 3vw;
   margin-bottom: 10px;
 }
 
@@ -174,15 +174,15 @@ article#main-col{
   margin-top: 10px;
 }
 
-
-@media(min-width: 900px){
+/* media queries */
+@media(min-width: 768px){
   div{
     font-size: 20px;
   }
 }
 
 
-/* media queries */
+
 @media(max-width: 768px){
   header#branding h1,
   #newsletter h1,
