@@ -1,2 +1,3 @@
-# ogdatascience
-datascience experiements
+# Dbverdict
+mkarhade.github.io
+dbverdict.com
